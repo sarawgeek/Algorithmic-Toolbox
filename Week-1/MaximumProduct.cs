@@ -3,9 +3,9 @@ using System.Linq;
 
 namespace MaximumProduct
 {
-    class Program
+    class Program11
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             var count = int.Parse(Console.ReadLine());
             var input = Console.ReadLine();
